@@ -1,4 +1,4 @@
 # CURD_JAVASCRIPT
 
-this is hosted page
+this is page url :  
 https://akhilza.github.io/CURD_JAVASCRIPT/
